@@ -1,0 +1,10 @@
+torch==2.2.1
+datasets==2.18.0
+random
+pandas==1.5.3
+gensim==
+numpy
+sentencepiece
+torchtext
+matplotlib
+pickle
